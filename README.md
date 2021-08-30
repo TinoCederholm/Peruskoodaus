@@ -1,0 +1,2 @@
+# Peruskoodaus
+ohjelmointi
